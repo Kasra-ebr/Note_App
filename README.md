@@ -1,4 +1,7 @@
 Note App
+
+
+
 Note App is a simple, yet powerful app designed to allow users to manage and organize their notes. Built with React, this app allows users to add, delete, and mark notes as complete. Additionally, users can sort their notes by their creation date or completion status.
 
 The Story
